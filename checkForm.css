@@ -1,0 +1,26 @@
+#myForm {
+  background: #dfdfdf;
+  border: 1px solid black;
+  width: 20em;
+  height: 10em;
+  padding: 10px;
+  margin: auto;
+}
+#myForm label {
+  display: block;
+  width: 7em;
+  float: left;
+}
+#myForm div {
+  margin-bottom: 5px;
+}
+.button {
+  text-align: center;
+  margin-top: 10px;
+}
+.empty {
+  border: 1px solid red;
+}
+.norm {
+  border: 1px solid black;
+}
